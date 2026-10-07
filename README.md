@@ -1,5 +1,3 @@
-# wireshark-network-traffic-analyse
-
 # Wireshark Network Traffic Analysis
 
 ## 📌 Project Overview
